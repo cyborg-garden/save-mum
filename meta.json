@@ -4,5 +4,18 @@
   "blurb": "Zombies burst out of the cupboard and carry Mum off to a secret lab. Pick the Smart Kid, who hacks bad guys into party zombies, or the Strong Kid, who punches. Jump and crouch past chomper lasers, spin kick a ring of skeletons, cross the goo and break the evil crystal's spell. Nobody can get hurt. Designed out loud by a 6 year old in a treehouse, built with Claude.",
   "status": "published",
   "updated": "2026-10-21",
-  "source": "https://github.com/cyborg-garden/save-mum"
+  "source": "https://github.com/cyborg-garden/save-mum",
+  "xbox50": {
+    "input": [
+      "keyboard",
+      "pointer",
+      "gamepad"
+    ],
+    "pad": {
+      "stick": "arrows",
+      "click": "KeyX",
+      "cursor": false,
+      "hint": "stick: move · button: hit · down + button: spin"
+    }
+  }
 }
